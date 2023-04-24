@@ -7,5 +7,5 @@ div::before{
 div::after{
 	color:red;
 	font-weight:bold;
-	content:" After Element";
+	content:"After Element";
 }
