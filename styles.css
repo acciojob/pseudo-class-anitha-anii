@@ -1,11 +1,11 @@
 /*  your css code here. If applicable */
-.word:before{
+div::before{
 	color:red;
-	font-size:20px;
+	font-weight:bold;
 	content:"Before Element";
 }
-.word:after{
+div::after{
 	color:red;
-	font-size:20px;
+	font-weight:bold;
 	content:" After Element";
 }
